@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<ThingDef ParentName="ResourceBase" Name="WritableScriptBase" Abstract="True">
+		<thingClass>ThingWithComps</thingClass>
+		<thingCategories>
+			<li>TM_SkillBooks</li>
+		</thingCategories>
+		<tradeTags>
+			<li>Arcane</li>
+		</tradeTags>
+		<statBases>
+			<MarketValue>6000</MarketValue>
+			<MaxHitPoints>1000</MaxHitPoints>
+			<Mass>0.2</Mass>
+			<Flammability>0.5</Flammability>
+			<DeteriorationRate>0.0001</DeteriorationRate>
+			<Beauty>10</Beauty>
+			<SellPriceFactor>.8</SellPriceFactor>
+		</statBases>
+		<stackLimit>1</stackLimit>
+		<techLevel>Neolithic</techLevel>
+		<comps>
+			<li Class="CompProperties_Usable">
+				<useJob>UseArtifact</useJob>
+				<useLabel>Read</useLabel>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<ThingDef ParentName="WritableScriptBase">
+		<defName>UnfinishedArcane</defName>
+		<label>Unfinished Arcane Book</label>
+		<thingClass>ThingWithComps</thingClass>
+		<description>A book ready to be filled with the secrets of unlocking magical powers...</description>
+		<category>Item</category>
+		<selectable>true</selectable>
+		<altitudeLayer>Item</altitudeLayer>
+		<alwaysHaulable>true</alwaysHaulable>
+		<stackLimit>1</stackLimit>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<tradeNeverStack>true</tradeNeverStack>
+		<statBases>
+			<MarketValue>1700</MarketValue>
+		</statBases>
+		<useHitPoints>true</useHitPoints>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="CompProperties_UseEffect">
+				<compClass>SihvRMagicScrollScribe.CompUseEffect_WriteTornScript</compClass>
+			</li>
+		</comps>
+		<rotatable>false</rotatable>
+		<costList>
+			<RawMagicyte>300</RawMagicyte>
+		</costList>
+		<recipeMaker>
+			<workSpeedStat>SmithingSpeed</workSpeedStat>
+			<workSkill>Intellectual</workSkill>
+			<recipeUsers>
+				<li>TableGemcutting</li>
+			</recipeUsers>
+			<effectWorking>Smelt</effectWorking>
+			<unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>4</Crafting>
+				<Intellectual>8</Intellectual>
+			</skillRequirements>
+		</recipeMaker>
+		<graphicData>
+			<texPath>Books/random</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<drawGUIOverlay>false</drawGUIOverlay>
+	</ThingDef>
+	
+	<ThingDef ParentName="WritableScriptBase">
+		<defName>UnfinishedMartial</defName>
+		<label>Unfinished Martial Book</label>
+		<thingClass>ThingWithComps</thingClass>
+		<description>A book ready to be filled with the secrets of unlocking martial powers...</description>
+		<category>Item</category>
+		<selectable>true</selectable>
+		<altitudeLayer>Item</altitudeLayer>
+		<alwaysHaulable>true</alwaysHaulable>
+		<stackLimit>1</stackLimit>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<tradeNeverStack>true</tradeNeverStack>
+		<statBases>
+			<MarketValue>1700</MarketValue>
+		</statBases>
+		<useHitPoints>true</useHitPoints>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="CompProperties_UseEffect">
+				<compClass>SihvRMagicScrollScribe.CompUseEffect_WriteMartialScript</compClass>
+			</li>
+		</comps>
+		<rotatable>false</rotatable>
+		<costList>
+			<RawMagicyte>300</RawMagicyte>
+		</costList>
+		<recipeMaker>
+			<workSpeedStat>SmithingSpeed</workSpeedStat>
+			<workSkill>Intellectual</workSkill>
+			<recipeUsers>
+				<li>TableGemcutting</li>
+			</recipeUsers>
+			<effectWorking>Smelt</effectWorking>
+			<unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+			<skillRequirements>
+				<Crafting>4</Crafting>
+				<Intellectual>8</Intellectual>
+			</skillRequirements>
+		</recipeMaker>
+		<graphicData>
+			<texPath>Books/random</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<drawGUIOverlay>false</drawGUIOverlay>
+	</ThingDef>
+	
+</Defs>

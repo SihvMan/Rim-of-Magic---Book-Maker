@@ -1,0 +1,30 @@
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\SihvRMagicScrollScribe.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\AbilityUser.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\Assembly-CSharp.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\TorannMagic.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\UnityEngine.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\0Harmony.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\TextMeshPro-1.0.55.56.0b11.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\Assembly-CSharp-firstpass.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\NAudio.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\NVorbis.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\Assemblies\UnityEngine.UI.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.csprojResolveAssemblyReference.cache
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.csproj.CoreCompileInputs.cache
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.csproj.CopyComplete
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\SihvRMagicScrollScribe\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\SihvRMagicScrollScribe.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\AbilityUser.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\Assembly-CSharp.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\TorannMagic.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\UnityEngine.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\0Harmony.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\TextMeshPro-1.0.55.56.0b11.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\Assembly-CSharp-firstpass.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\NAudio.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\NVorbis.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\Assemblies\UnityEngine.UI.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Assemblies\SihvRMagicScrollScribe.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.csprojResolveAssemblyReference.cache
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.csproj.CoreCompileInputs.cache
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\TMagic Scroll Maker\Source\SihvRMagicScrollScribe\obj\Debug\SihvRMagicScrollScribe.dll
